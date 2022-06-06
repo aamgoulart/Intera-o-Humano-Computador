@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aamgoulart/Intera-o-Humano-Computador/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Interação Humano Computador
+# Entregavel 1
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Introdução
 
-```markdown
-Syntax highlighted code block
+Temos como objetivo criar uma plataforma que facilite o processo que conecta empresas que buscam soluções para desafios do seu dia a dia, para isso estão buscando startups. Do outro lado, temos startups buscando mercado e visibilidade, e entre elas temos o Nexus, que fará a filtragem, match entre as empresas e acompanhamento dos desafios. 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Perguntas e Respostas Método entrevista
 
-1. Numbered
-2. List
+### Como os desafios são propostos para o nexus?
+O nexus possui desafios distintos, existe o caso de desafios direto onde  uma empresa tem uma necessidade específica e o nexus indica uma startup que possa fornecer uma solução e desafios abertos (Inovação aberta) onde grandes empresas desejam incubar ideias inovadoras. As demandas chegam por email, por reuniões, através de parcerias e tem o caso de desafios abertos (Inovação aberta) que são demandas mais complexas onde é feito o contato direto com a empresa demandante através de email e outros.
 
-**Bold** and _Italic_ and `Code` text
+### Os desafios são públicos para todas empresas?
+Os desafios são privados.
 
-[Link](url) and ![Image](src)
-```
+### Como funciona o sistema de armazenamento dos desafios?
+No primeiro caso onde os desafios são diretos, ou seja, onde uma determinada empresa grande possui uma necessidade específica e o nexus faz uma conexão entre startups, esse tipo de desafio é armazenado em uma planilha de conexão.
+Em grandes desafios onde as grandes empresas abrem uma chamada onde várias empresas participam e a premiação é a incubação da empresa no nexus, esses desafios também são armazenados em planilhas.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Quais informações são necessárias para o match do desafio com as empresas menores?
+A informação vai depender da empresa que cria o desafio, por exemplo, ela pode solicitar condições como maturidade da empresa, pode exigir que a empresa já tenha passado por uma rodada de investimento, que tenha um determinado faturamento anual, que seja de um determinado segmento etc… Existe uma planilha que armazena informações das empresas do nexus.
 
-### Jekyll Themes
+### Após as empresas passarem pela etapa de match, o nexus faz o acompanhamento do desafio?
+No caso de grandes desafios o acompanhamento é realizado durante o decorrer do processo de incubação, já em desafios pontuais o acompanhamento é feito de maneira informal.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aamgoulart/Intera-o-Humano-Computador/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Existe algum indicador/acompanhamento que mede as conexões?
+Existe uma planilha geral que faz o controle das conexões que são feitas, essa planilha engloba todas empresas.
 
-### Support or Contact
+### O nexus possui uma identidade visual?
+Existe uma página no site do nexus que tem informações sobre a identidade visual.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Quais são os critérios para o match em desafios diretos?(Desafios diretos são aqueles onde uma empresa tem uma necessidade específica e uma startup é indicada para que possa fornecer uma solução?
+Existem eixos para as startups serem selecionadas, dentre esses eixos podemos ter alguns alguns requisitos como Maturidade, Equipe, Faturamento, Capacidade de desenvolvimento tecnológico etc.
+
+### Qual nomenclatura é utilizada para empresas contratada e contratante?
+Geralmente é utilizado o nome da empresa, porém pode ser utilizado as seguintes nomenclaturas.
+contratada - Startup
+contratante - Corporate
+
+
